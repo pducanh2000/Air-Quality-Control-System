@@ -1,2 +1,2 @@
 # Temperature-Meter-By-Infrared-Sensor
-Our final project for Microprocessor.
+Our Microprocessor final project. :smile:
