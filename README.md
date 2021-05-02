@@ -1,2 +1,2 @@
-# Temperature-Meter-By-Infrared-Sensor
+# Air-Quality-Control-System
 Our Microprocessor final project. :smile:
